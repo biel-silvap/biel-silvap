@@ -1,6 +1,6 @@
 #  :wave: Oi, eu sou o Gabriel!
 
-Um estudante de sistemas de informação em busca de se tornar um programador back-end.
+Um estudante de sistemas de informação em busca de se tornar um desenvolvedor back-end.
 
 No momento não estou trabalhando em nenhum local, mas estou em busca de um estágio na área.
 
